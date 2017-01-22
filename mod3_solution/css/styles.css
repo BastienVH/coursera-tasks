@@ -1,0 +1,19 @@
+header nav div {
+    background: slategrey;
+}
+#brand {
+    color: white;
+}
+
+#collapsable-menu a {
+    color: white;
+}
+
+li {
+    border: 1px black;
+}
+
+#content {
+    height: 1000px;
+    background-color: lightcyan;
+}
