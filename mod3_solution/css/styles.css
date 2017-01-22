@@ -14,6 +14,13 @@ li {
 }
 
 #content {
-    height: 1000px;
+    min-height: 1000px;
     background-color: lightcyan;
+}
+
+/********** Extra small devices only **********/
+@media(max-width:767px) {
+    #content {
+        margin: 0 50px;
+    }
 }
